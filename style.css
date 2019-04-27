@@ -1,0 +1,162 @@
+.head{
+    background-color: red;
+    padding:10px;
+    word-spacing:10px;
+}
+body {
+    background-color:white;
+}
+.search {
+    background-color: white;
+    padding:5px;
+}
+.bata{
+    text-align: center;
+    padding:10px;
+}
+.p {
+    text-align: center;
+    word-spacing: 80px;
+    text-transform: capitalize;
+}
+.cart {
+    text-align: right;
+    padding:5px;
+}
+.my-style{
+    color:skyblue;
+    padding: 20px;
+}
+img{
+    text-align: left;
+}
+img {
+    text-align: center;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+img {
+    text-align: right;
+    padding-right: 2px;
+    padding-right: 2px;
+}
+.my-style2 {
+    color:skyblue;
+    padding: 20px;
+}
+.image1 {
+ float: left top;
+}
+strong {
+    text-decoration: underline;
+}
+.text {
+    float: right;
+ padding-right: 300px;
+ margin-right: 40px;
+}
+.text2 {
+    float: right;
+    padding-right: 300px;
+    margin-right: 50px;
+}
+.photo {
+    float: bottom;
+}
+.my-style3 {
+    color:skyblue;
+    padding: 20px;
+}
+.my-image {
+    float: right;
+}
+.text4 {
+    float:left;
+    padding-left: 200px;
+    margin-left: 50px;
+}
+.text5 {
+    float: left;
+    padding-left: 200px;
+}
+.picture {
+    float:botom;
+}
+.my-picture {
+    color:skyblue;
+    padding:20px;
+}
+img {
+    text-align: left;
+}
+img {
+    text-align: center;
+    padding-left: 2px;
+}
+.brand {
+    color:skyblue;
+    padding:20px;
+}
+img {
+    text-align: left;
+}
+img {
+    text-align: center;
+    padding-left: 2px;
+}
+.featured {
+    color:skyblue;
+    padding:20px;
+}
+img{
+    text-align: left;
+}
+img {
+    text-align: center;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+img {
+    text-align: right;
+    padding-right: 2px;
+    padding-right: 2px;
+}
+footer {
+    background-color: aliceblue;
+}
+.input {
+    text-align: center;
+}
+.button {
+    background-color: red;
+    color:white;
+}
+table {
+    border-collapse:collapse;
+   padding: 20px;
+   margin:10px;
+   text-align: left;
+   padding-left: 10px;
+   padding-right: 3px;
+   
+}
+th,td {
+    padding:10px;
+    padding-left: 5px;
+    text-align:left;
+}
+h2 {
+    color: brown;
+}
+.p4 {
+    color: gray;
+}
+.logo {
+    background-color: red;
+    text-align: right;
+}
+.p6 {
+    background-color:red;
+    text-align: center;
+    color:white;
+}
